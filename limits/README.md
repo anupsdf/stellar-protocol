@@ -219,7 +219,7 @@ Introduce your idea in [GitHub Discussions](https://github.com/stellar/stellar-p
 Draft a formal proposal and submit a PR to this repository. Your proposal should include:
 
 - **Motivation** — Demonstrate the necessity of the increase:
-  - How the use case aligns with [Stellar Network goals](../core/README.md#stellar-network-goals).
+  - How the use case aligns with [Stellar network goals](../core/README.md#stellar-network-goals).
   - Why the existing limits are not sufficient (e.g. your protocol's resource requirements clearly
     exceed the current limit).
 - **Proposed Changes** — Specify the resource(s) and the desired new limit value(s). If you are
